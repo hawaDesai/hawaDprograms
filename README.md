@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @hawaDprograms
-- 👀 I’m interested in software engineering and machine learning
-
+- 👀 I’m interested in AI,machine learning, and software engineering
